@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: "Blog"
+server:
+  port: 9090
